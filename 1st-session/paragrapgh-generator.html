@@ -1,0 +1,27 @@
+<html>
+
+<head>
+  <title>Web dev is fun!</title>
+</head>
+
+<body>
+  <h1>Hello world</h1>
+  <button>Generate 10 paragraphs</button>
+  <div></div>
+  <script>
+    const button = document.querySelector('button')
+    const container = document.querySelector('div')
+    button.addEventListener('click', function onClick() {
+      for (let index = 1; index <= 10; index++) {
+        const p = document.createElement('p')
+        p.addEventListener('click', function onClick() {
+          p.remove()
+        })
+        p.textContent = "Paragraph " + index
+        container.append(p)
+      }
+    })
+  </script>
+</body>
+
+</html>
