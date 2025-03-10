@@ -3,6 +3,7 @@
 ## الجلسات
 
 1. [أساسيات الويب (HTML, CSS, JavaScript)](./1st-session)
+1. [لماذا React](./2nd-session)
 
 ## العرض التقديمي (Slides)
 

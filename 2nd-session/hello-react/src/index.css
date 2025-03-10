@@ -1,0 +1,22 @@
+.comments {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.comment {
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.replies {
+  padding: 5px 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.reply {
+  border: 2px dashed black;
+  border-radius: 5px;
+}
