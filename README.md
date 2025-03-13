@@ -1,9 +1,12 @@
 # ورشات ربيع 2025 - Front-end
 
-## الجلسات
+## الأمثلة العملية لكل جلسة
 
 1. [أساسيات الويب (HTML, CSS, JavaScript)](./1st-session)
 1. [لماذا React](./2nd-session)
+1. [State Management & Event Handling](./3rd-session)
+1. [جلب البيانات - القيام باستدعاءات API](./4th-session)
+1. [مثال عملي: To Do List](./5th-session)
 
 ## العرض التقديمي (Slides)
 
