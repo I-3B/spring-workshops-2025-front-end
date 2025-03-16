@@ -11,3 +11,4 @@
 ## العرض التقديمي (Slides)
 
 - [Intro to Front-end Development](https://docs.google.com/presentation/d/1Xqp9CIH3nv3firRlU-0WkWtxh83UXlIJIhaCVbzPIgU/edit?usp=sharing)
+- [خارطة الطريق: كيف تصبح مطور Front-end](https://docs.google.com/presentation/d/19NNAmNXBoBUeWnUxmuAPqSCzkyM_ZB_JjkiZs9Vxx70/edit?usp=sharing)
